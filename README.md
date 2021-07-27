@@ -9,10 +9,10 @@
 - ✉️ To reach out to me, you can drop an email to mohsin92@me.com or find me from the social links below.
 
 <a href="https://github.com/mohsin">
-<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohsin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" /></a>
+<img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=mohsin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" /></a>
 
 <a href="https://github.com/mohsin">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohsin&layout=compact&theme=radical" height="180px" />
+  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=mohsin&layout=compact&theme=radical" height="180px" />
 </a>
 
 ### Languages and Tools
