@@ -45,7 +45,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.github.com/devicons/devicon/master/icons/javascript/javascript-original.svg?sanitize=true" width="40" height="40">
 </a>
 <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="swift" width="40" height="40"/>
