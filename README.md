@@ -27,7 +27,7 @@
     <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
 </a>
 <a href="https://php.net" target="_blank">
-    <img src="https://iconarchive.com/download/i105644/papirus-team/papirus-apps/github-bartzaalberg-php-tester.ico" alt="php" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="40" height="40"/>
 </a>
 <a href="https://octobercms.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" alt="octobercms" width="40" height="40"/>
