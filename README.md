@@ -1,100 +1,107 @@
-### Hi there 👋
+# Saifur Rahman Mohsin 👋
 
-- 💻 I’m a fullstack developer (web, mobile & voice) who works full-time as a **freelancer**.
+## About Me
 
-- 🌏 I’m based out of **Bangalore, India** and I usually work out of home or coffee shops.
+I'm a versatile fullstack engineer with expertise in web, mobile, voice applications, and deploying scalable cloud architectures / setup CI/CD pipelines and other DevOps, currently working as an independent freelancer.
 
-- 🎤 I occasionally conduct workshops and give technical talks on invite as seen <a href="https://www.facebook.com/media/set/?vanity=tempestronics&set=a.902464919932970" target="_blank">here</a>, <a href="https://www.facebook.com/media/set/?vanity=tempestronics&set=a.956885694490892" target="_blank">here</a> & <a href="https://www.facebook.com/media/set/?vanity=tempestronics&set=a.1248606431985482" target="_blank">here</a>.
+🌍 **Location**: Based out of Bangalore, India, mostly working remotely from local coffee shops
 
-- ✉️ To reach out to me, you can drop an email to mohsin92@me.com or find me from the social links below.
+💼 **Professional Focus**:
+- Fullstack Development
+- Native & cross-platform Mobile Development
+- Cloud Architecture & DevOps
+- Infrastructure Automation
+- Voice Application Development
+- Technical Speaking & Workshop Facilitation
+
+🎯 **What I Do**:
+- Create robust web and mobile applications
+- Develop native apps using Kotlin/Swift or cross-platform mobile applications using Kotlin Multiplatform Mobile (KMM)
+- Design and implement scalable cloud infrastructures on AWS, GCP, and other hybrid environments
+- Orchestrate containerized applications using Docker and Kubernetes
+- Conduct technical workshops and give talks on development topics
+- Build voice-enabled experiences for Alexa and Google Assistant
+- Build automated CI/CD pipelines and maintain infrastructure as code
+
+## Tech Stack
+
+### Cloud & Infrastructure
+- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Azure, DigitalOcean
+- **Containerization**: Docker, Kubernetes
+- **Databases**: MariaDB, SQLite, Postgres, Firebase
+- **DevOps**: Infrastructure as Code, CI/CD, Container Orchestration
+
+### Core Technologies
+- **Frontend**: React.js, Vue.js, HTML5, CSS3, JavaScript
+- **Backend**: PHP, Laravel, OctoberCMS, Python
+- **Mobile**: Kotlin Multiplatform Mobile (KMM), Android (Kotlin/Java), iOS (Swift)
+- **Voice**: Alexa Skills Kit, Google Actions
+
+### Languages & Frameworks
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.github.com/devicons/devicon/master/icons/javascript/javascript-original.svg?sanitize=true" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.jetbrains.com/_assets/www/kotlin-multiplatform/parts/sections/head/hero-shape.41226a16aa9674fbb2f397f143af121c.jpg" alt="KMM" width="40" height="40"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="Swift" width="40" height="40"/>
+  <img src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg?sanitize=true" alt="Java" width="40" height="40"/>
+  <img src="https://raw.github.com/devicons/devicon/master/icons/c/c-original.svg?sanitize=true" alt="C" width="40" height="40"/>
+  <img src="https://raw.github.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg?sanitize=true" alt="C++" width="40" height="40"/>
+</p>
+
+### Mobile Development Expertise
+- Native core/UI development for iOS and Android
+- Cross-platform development using Kotlin Multiplatform Mobile (KMM)
+- Performance optimization for mobile applications
+- Native code development in certain projects
+- Have worked with specialized stacks like BLE (eg. connecting with Mevo Golf tracking device, Insta360 camera, etc.)
+- Building for Android TV or Android Auto (head units)
+- Connectivity with IoT devices such as ESP8266/ESP32, light bulbs, configurator apps, etc.
+
+### Platforms & Tools
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="40" height="40"/>
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" alt="OctoberCMS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Amazon_Alexa_App_Logo.png" alt="Alexa" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2c/Google_Actions_Logo.png" alt="Google Assistant" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
+
+## Infrastructure & Cloud Expertise
+- Design and implementation of scalable microservices architectures or monolithic architectures
+- Container orchestration and cluster management with Kubernetes
+- Multi-cloud infrastructure management (AWS, GCP)
+- Setting up of subnets, security groups, routes, gateways, etc.
+- Infrastructure as Code (IaC) implementation using tools like Terraform
+- CI/CD pipeline automation
+- Cloud cost optimization and resource management
+- Security best practices implementation
+- Performance monitoring and optimization
+
+## GitHub Stats
 
 <a href="https://github.com/mohsin">
 <img align="center" alt="Mohsin's Github Stats" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api?username=mohsin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" height="180px" /></a>
 
 <a href="https://github.com/mohsin">
-  <img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=mohsin&layout=compact&theme=radical" height="180px" />
-</a>
+<img align="center" src="https://github-readme-stats-glyzzeiyw-saifurrahmanmohsin.vercel.app/api/top-langs/?username=mohsin&layout=compact&theme=radical" height="180px" /></a>
 
-### Languages and Tools
- 
-<a href="https://developer.android.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="android" width="40" height="40"/>
-</a>
-<a href="https://kotlinlang.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/>
-</a>
-<a href="https://laravel.com" target="_blank">
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://php.net" target="_blank">
-    <img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://octobercms.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/OctoberCMS.png" alt="octobercms" width="40" height="40"/>
-</a>
-<a href="https://developer.amazon.com/en-US/alexa/alexa-skills-kit" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Amazon_Alexa_App_Logo.png" alt="alexa-skills-kit" width="40" height="40"/>
-</a>
-<a href="https://developers.google.com/assistant" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/2c/Google_Actions_Logo.png" alt="google-actions" width="40" height="40"/>
-</a>
-<a href="https://mariadb.com" target="_blank">
-    <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="40" height="40"/>
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/javascript/javascript-original.svg?sanitize=true" width="40" height="40">
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" alt="swift" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" alt="gcp" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?sanitize=true" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg?sanitize=true" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://vuejs.org" target="_blank">
-    <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/>
-</a>
-<a href="https://java.com" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/java/java-original.svg?sanitize=true" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/c/c-original.svg?sanitize=true" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp" target="_blank">
-    <img src="https://raw.github.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg?sanitize=true" alt="cplusplus" width="40" height="40"/>
-</a>
+## Speaking Engagements
+I regularly share knowledge through technical talks and workshops, covering topics from cloud architecture to application development. Some of my past engagements can be found [here](https://www.facebook.com/media/set/?set=a.902464919932970), [here](https://www.facebook.com/media/set/?set=a.956885694490892), and [here](https://www.facebook.com/media/set/?set=a.1248606431985482).
 
-### Connect with me
-
-<a href="http://linkedin.com/in/saifurrahmanmohsin" target="_blank">
-    <img align="center" src="https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://twitter.com/SaifurMohsin" target="_blank">
-    <img align="center" src="https://img.favpng.com/6/9/8/wikipedia-logo-computer-icons-portable-network-graphics-vector-graphics-png-favpng-QPaA3LPdUAp2nRJfgW6SgDULD.jpg" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://stackoverflow.com/story/saifurmohsin" target="_blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24g27z39-sZ6dtevQctMv38UqI9g8S-gx8K8-WHOadb647rwR3mnMB__ZVK_0Lt-Wz2U&usqp=CAU" alt="stackoverflow" height="40" width="40" />
-</a>
-<a href="https://www.quora.com/profile/Saifur-Rahman-Mohsin" target="_blank">
-    <img align="center" src="https://qph.fs.quoracdn.net/main-qimg-d049946241e53481209a8938b70321e0" alt="quora" height="40" width="40" />
-</a>
-<a href="https://dev.to/mohsin" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="devto" height="40" width="40" />
-</a>
-<a href="http://t.me/SaifurMohsin" target="_blank">
-    <img align="center" src="https://web.telegram.org/img/logo_share.png" alt="telegram" height="40" width="40" />
-</a>
-<a href="https://sessionize.com/saifur-rahman-mohsin" target="_blank">
-    <img align="center" src="https://sessionize.com/landing/images/brand/logo/sessionize-avatar.png" alt="sessionize" height="40" width="40" />
-</a>
+## Get in Touch
+- 📧 Email: mohsin92@me.com
+- 💼 [LinkedIn](http://linkedin.com/in/saifurrahmanmohsin)
+- 🐦 [Twitter](https://twitter.com/SaifurMohsin)
+- 💻 [Dev.to](https://dev.to/mohsin)
+- 🎤 [Sessionize](https://sessionize.com/saifur-rahman-mohsin)
+- 📚 [Stack Overflow](https://stackoverflow.com/users/997147/saifur-rahman-mohsin)
+- ❓ [Quora](https://www.quora.com/profile/Saifur-Rahman-Mohsin)
